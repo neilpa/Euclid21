@@ -1,0 +1,1 @@
+To cut off a segment, accepting an angle equal to a given rectilinear angle . . .

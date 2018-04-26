@@ -1,0 +1,1 @@
+A circle does not touch a(nother) circle at more than one point, whether th . . .

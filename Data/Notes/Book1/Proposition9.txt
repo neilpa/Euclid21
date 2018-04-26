@@ -1,0 +1,1 @@
+To cut a given rectilinear angle in half.

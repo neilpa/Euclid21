@@ -1,0 +1,1 @@
+Every number is either prime or is measured by some prime number. 

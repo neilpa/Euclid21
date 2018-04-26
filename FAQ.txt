@@ -1,0 +1,28 @@
+Euclid 21 FAQ
+
+Q 1. What do I need to run Euclid21?
+A 1. All you need is Java! (JRE 6 or above is recommended.)
+
+Q 2. Where can I get Java from?
+A 2. Please visit http://www.java.com to download Java.
+
+Q 3. How do I check if I have Java?
+A 3. The easiest way to check if you have java is to visit http://www.java.com and click on the link titled, "Do I have Java?"
+
+Q 4. I installed Java, how do I run the program now?
+A 4. Once you have successfully installed Java, it is strongly recommended that you restart your computer. Once you have restarted, extract the "Euclid21-executable.zip" file to a folder. Open the folder and locate the file "Euclid21.jar".
+
+Q 5. I clicked on "Euclid21.jar", but I was given a security warning an "Unknown Publisher Warning". What now?
+A 5. Unfortunately, Euclid21.jar is not signed (as of the time of this FAQ). You have two options. 
+		1. You may download the source code from http://www.maa.org/sites/default/files/images/upload_library/46/Boman-Euclid21/Euclid21-source.zip and ensure that there is nothing malicious in our code. Once you are satisfied with the code, you may compile it your self and run it.
+		2. You can chose to ignore the warning and execute the program anyways. To do that, select the option to "Run Anyways". 
+		3. For Mac Users: Right click on Euclid21.jar and select 'Open'. This will allow you to run the application.
+		
+Q 6. I get an error: "Error: Could not find or load main class Euclid21.jar"
+A 6. This happens occasionally when Java is unable to read the classpath properly. The easiest workaround for this problem is to extract Euclid21.jar with your favorite zip extractor (WinZip, WinRar, etc.). Now open Command Prompt or Terminal and navigate to the folder where you extracted the files. You will then want to use the command "java EuclidReader" to run the program. 
+
+Q 7. I did the workaround mentioned in Q 6 and I got an error saying "java.io.FileNotFoundException: ...\Data\file.txt"
+A 7. This happens when the program is unable to find the data folder and a file list. To fix this error, ensure that the Data folder and all it's files were also extracted with the other files, and it is located in the same folder as the .class files. 
+
+Q 8. I still cannot get this program to run. What now?
+A 8. We understand that computers are not as reliable as we wish they were. If you still have problems running our code, please feel free to email Dr. Boman at ecb5@psu.edu. We will try to get back with a solution as soon as possible.

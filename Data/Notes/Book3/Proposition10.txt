@@ -1,0 +1,2 @@
+
+A circle does not cut a(nother) circle at more than two points.

@@ -1,0 +1,1 @@
+An even number is one (which can be) divided in half.

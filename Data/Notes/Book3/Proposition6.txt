@@ -1,0 +1,1 @@
+If two circles touch one another then they will not have the same center. 

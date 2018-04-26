@@ -1,0 +1,2 @@
+
+To draw a straight-line touching a given circle from a given point.

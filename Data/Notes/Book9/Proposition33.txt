@@ -1,0 +1,1 @@
+If a number has an odd half then it is an even-time-odd (number) only.

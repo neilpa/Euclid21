@@ -1,0 +1,1 @@
+To find the center of a given circle.

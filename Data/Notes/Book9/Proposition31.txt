@@ -1,0 +1,1 @@
+If an odd number is prime to some number then it will also be prime to its  . . .

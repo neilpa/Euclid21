@@ -1,0 +1,1 @@
+A binomial (straight-line) can be divided into its (component) terms  at on . . .

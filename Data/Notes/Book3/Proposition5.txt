@@ -1,0 +1,2 @@
+
+If two circles cut one another then they will not have the same center.

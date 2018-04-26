@@ -1,0 +1,2 @@
+If two numbers are prime to one another then as the first is to the
+second, . . .
