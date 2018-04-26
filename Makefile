@@ -1,5 +1,6 @@
 classfiles := $(wildcard *.0)
 
 Euclid21.jar: *.java Manifest.txt
-	javac $?
-	jar cvmf Manifest.txt Euclid21.jar *.class
+	mkdir -p ./build
+	javac -d ./build $?
+	cd ./build; jar cvmf ../Manifest.txt Euclid21.jar *.class
